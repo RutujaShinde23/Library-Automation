@@ -1,4 +1,4 @@
 # Library-Automation
-This is my first git repository
+This is my first git repository.
 <br>
-Author Rutuja Shinde
+Author Rutuja (library automation)
